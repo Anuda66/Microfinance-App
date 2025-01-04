@@ -82,3 +82,6 @@ The application will be available at http://localhost:3000
 ## Contact
 
 - GitHub: @Anuda66
+
+  ![Screenshot 2025-01-04 160246](https://github.com/user-attachments/assets/24e14804-e745-4d90-8986-5683aad0cede)
+
